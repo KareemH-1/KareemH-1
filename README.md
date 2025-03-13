@@ -24,8 +24,3 @@ A passionate computer science student from Egypt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
 </p>
 
----
-
-## 🔥 GitHub Streak  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemH-1&theme=dark&hide_border=true" alt="GitHub Streak" />
-
