@@ -23,4 +23,5 @@ A passionate computer science student from Egypt
 </p>  
 
 ## 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=KareemH-1&theme=dark&hide_border=true)](https://github.com/KareemH-1)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KareemH-1&theme=dark&hide_border=true)](https://github.com/KareemH-1)
+
