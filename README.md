@@ -36,24 +36,24 @@ A passionate computer science student from Egypt
 
 ## GitHub Stats
 
-<div align="center">
-  
-  ### Activity
-  <img src="https://github-readme-stats.vercel.app/api?username=KareemH-1&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Kareem's GitHub Stats" />
-  
-  ### Streak
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemH-1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Kareem's GitHub Streak" />
-  
-  ### Top Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemH-1&layout=compact&theme=radical&hide_border=true" alt="Kareem's Top Languages" />
-  
-  ### Achievements
-  <img src="https://github-profile-trophy.vercel.app/?username=KareemH-1&theme=radical&column=4&margin-w=15&margin-h=15" alt="Kareem's Trophies" />
+<div>
+  <a href="https://github.com/KareemH-1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KareemH-1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kareem's GitHub Stats" />
+  </a>
+  <a href="https://github.com/KareemH-1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemH-1&layout=compact&theme=radical&hide_border=true" alt="Kareem's Top Languages" />
+  </a>
 </div>
 
-
-<p align="left">
-  <a href="https://github.com/KareemH-1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<div>
+  <a href="https://github.com/KareemH-1">
+    <img height="180em" src="https://streak-stats.demolab.com/?user=KareemH-1&theme=radical&hide_border=true" alt="Kareem's GitHub Streak" />
   </a>
-</p>
+</div>
+
+<div>
+  <a href="https://github.com/KareemH-1">
+    <img src="https://github-profile-trophy.vercel.app/?username=KareemH-1&theme=radical&column=7&margin-w=15&margin-h=15" alt="Kareem's Trophies" />
+  </a>
+</div>
+
