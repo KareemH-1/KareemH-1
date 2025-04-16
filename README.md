@@ -44,13 +44,6 @@ A passionate computer science student from Egypt
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemH-1&layout=compact&theme=radical&hide_border=true" alt="Kareem's Top Languages" />
   </a>
 </div>
-
-<div>
-  <a href="https://github.com/KareemH-1">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=KareemH-1&theme=radical&hide_border=true" alt="Kareem's GitHub Streak" />
-  </a>
-</div>
-
 <div>
   <a href="https://github.com/KareemH-1">
     <img src="https://github-profile-trophy.vercel.app/?username=KareemH-1&theme=radical&column=7&margin-w=15&margin-h=15" alt="Kareem's Trophies" />
