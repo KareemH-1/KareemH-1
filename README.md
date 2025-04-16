@@ -42,7 +42,7 @@ A passionate computer science student from Egypt
   <img src="https://github-readme-stats.vercel.app/api?username=KareemH-1&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Kareem's GitHub Stats" />
   
   ### Streak
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemH-1&theme=radical&hide_border=true" alt="Kareem's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KareemH-1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Kareem's GitHub Streak" />
   
   ### Top Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemH-1&layout=compact&theme=radical&hide_border=true" alt="Kareem's Top Languages" />
@@ -50,3 +50,10 @@ A passionate computer science student from Egypt
   ### Achievements
   <img src="https://github-profile-trophy.vercel.app/?username=KareemH-1&theme=radical&column=4&margin-w=15&margin-h=15" alt="Kareem's Trophies" />
 </div>
+
+
+<p align="left">
+  <a href="https://github.com/KareemH-1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
