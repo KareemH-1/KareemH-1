@@ -42,6 +42,7 @@ A passionate computer science student from Egypt
   </a>
   <a href="https://github.com/KareemH-1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemH-1&layout=compact&theme=radical&hide_border=true" alt="Kareem's Top Languages" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MazenMDev" />
   </a>
 </div>
 <div>
