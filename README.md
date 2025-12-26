@@ -1,39 +1,153 @@
-<h1 align="center">Hi 👋, I'm Kareem</h1>
-<h3 align="center">A passionate computer science student from Egypt</h3>
+<h1 align="center">Kareem Ahmed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kareemh-1&label=Profile%20views&color=0e75b6&style=flat" alt="kareemh-1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemh-1&theme=darkhub" alt="kareemh-1" /></a> </p>
-
-- 🔭 I’m currently working on **developing and learning new skills**
-
-- 🌱 I’m currently learning **Web Development, game development using unity, problem solving using c++ and different other languages including c# and python**
-
-- 👯 I’m looking to collaborate on **different projects in the future**
-
-- 📫 How to reach me **kareem99710@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kareem-ahmed-h/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> 
-</a>
-<a href="https://codeforces.com/profile/kareemh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /> 
-</a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
+<h3 align="center">
+Computer Science Student | Full-Stack Web Developer | Data Engineer
+</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemh-1&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemh-1&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="150"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=kareemh-1&label=Profile%20views&color=0e75b6&style=flat"
+    alt="profile views"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kareemh-1&theme=dark" alt="GitHub Streak"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=kareemh-1&theme=darkhub"
+    alt="github trophies"
+  />
 </p>
+
+<hr />
+
+<section>
+  <h2>About Me</h2>
+
+  <p>
+    I am a Computer Science student from Egypt with hands-on experience in full-stack
+    web development and a strong foundation in data engineering.
+  </p>
+
+  <p>
+    I focus on building complete systems, designing clean backend architectures,
+    working with databases efficiently, and applying data-driven thinking to solve problems.
+  </p>
+
+  <ul>
+    <li>Strong problem-solving background using C++</li>
+    <li>Backend-focused full-stack development</li>
+    <li>Data processing, analysis, and optimization</li>
+    <li>Experience delivering complete academic and personal projects</li>
+  </ul>
+</section>
+
+<hr />
+
+<section>
+  <h2>Portfolio</h2>
+
+  <p>
+    Full projects, case studies, and technical details are available here:
+  </p>
+
+  <p>
+    <a href="https://kareemh-1.github.io/Portfolio/" target="_blank">
+      https://kareemh-1.github.io/Portfolio/
+    </a>
+  </p>
+</section>
+
+<hr />
+
+<section>
+  <h2>Skills & Technologies</h2>
+
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  </p>
+
+  <h3>Backend & Databases</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  </p>
+
+  <h3>Data Engineering</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  </p>
+
+  <h3>Programming & Tools</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" />
+  </p>
+</section>
+
+<hr />
+
+<section>
+  <h2>Connect</h2>
+
+  <ul>
+    <li>
+      LinkedIn:
+      <a href="https://www.linkedin.com/in/kareem-ahmed-h/" target="_blank">
+        linkedin.com/in/kareem-ahmed-h
+      </a>
+    </li>
+    <li>
+      Codeforces:
+      <a href="https://codeforces.com/profile/kareemh" target="_blank">
+        codeforces.com/profile/kareemh
+      </a>
+    </li>
+    <li>
+      Email:
+      <a href="mailto:kareem99710@gmail.com">
+        kareem99710@gmail.com
+      </a>
+    </li>
+  </ul>
+</section>
+
+<hr />
+
+<section>
+  <h2>GitHub Activity</h2>
+
+  <p>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=kareemh-1&layout=compact&theme=dark"
+      height="150"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=kareemh-1&show_icons=true&theme=dark"
+      height="150"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=kareemh-1&theme=dark"
+    />
+  </p>
+</section>
