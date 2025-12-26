@@ -17,7 +17,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" /> About Me
 
-```javacript
+```typescript
 const kareem = {
     location: "Egypt",
     education: "Computer Science Student",
