@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-ahmed-h/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem99710@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kareemh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kareemh-1.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kareem-a-hassan.tech/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KareemH-1&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -114,7 +114,7 @@ const kareem = {
 
 ### Check out my complete portfolio for detailed projects and case studies
 
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&scale=1.5)](https://kareemh-1.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&scale=1.5)](https://kareem-a-hassan.tech/)
 
 </div>
 
